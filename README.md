@@ -1,2 +1,3 @@
-# odin-f-p1-recipes
-TOP - Foundations Project 1: Recipes
+# odin-recipes
+The Odin Project: Foundations
+Recipes Assignment
